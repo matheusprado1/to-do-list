@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&family=Inter:wght@500;600&display=swap');
+
+:root {
+  --color-brand: #364FC7;
+  --grey-1: #1E1E1E;
+  --grey-2: #495057;
+  --grey-3: #868E96;
+  --grey-4: #DEE2E6;
+  --grey-5: #F1F3F5;
+  --grey-6: #F8F9FA;
+
+  --font-family-1: Inter;
+  --font-family-2: IBM Plex Sans;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--font-family-2);
+  font-weight: 500;
+}
