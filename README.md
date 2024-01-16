@@ -18,4 +18,5 @@ Aqui está uma imagem da aplicação em funcionamento:
 
 <img src="./src/assets/screen.png">
 
-
+## Contribuições
+Contribuições são sempre bem-vindas. Sinta-se à vontade para abrir uma issue ou fazer um pull request.
